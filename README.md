@@ -1,4 +1,4 @@
-# Data-analysis-on-temperature-rise-in-S-o-F-lix-do-Xingu
+# Data analysis on temperature rise in São Félix do Xingu
 This is my first Data Science project, using real data from a variety of sources and with results that can be used in the real world. In this project, the idea is to analyze temperature, rainfall and flow rate data from the river that cuts through the city to answer the following questions: Have temperatures increased? Did this affect the level of rainfall and the flow of the River?
 
 THE PROJECT HAS THREE PARTS:
